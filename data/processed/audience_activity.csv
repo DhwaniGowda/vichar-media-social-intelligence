@@ -1,0 +1,15 @@
+platform,weekday,hour_source_timezone,avg_followers_online,rank_within_day,timezone,window,note
+Instagram,Sun,7,198,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Sun,8,196,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Mon,6,197,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Mon,7,196,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Tue,8,202,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Tue,6,199,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Wed,7,202,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Wed,8,200,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Thu,8,199,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Thu,6,199,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Fri,7,197,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Fri,8,197,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Sat,9,198,1,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.
+Instagram,Sat,7,193,2,America/Los_Angeles,Last 28 days,Only top 2 hours per day were present in source audit.

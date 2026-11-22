@@ -1,0 +1,16 @@
+{
+  "project": "Vichar Media Social Media Intelligence & Data Analytics Platform",
+  "built_at_local": "2026-11-21",
+  "instagram_source": "User-supplied audit text attachment",
+  "youtube_source": "User-supplied lifetime audit pasted in conversation",
+  "records": {
+    "instagram_feed": 43,
+    "instagram_reels": 35,
+    "instagram_carousels": 8,
+    "instagram_stories": 32,
+    "instagram_daily_rows": 28,
+    "youtube_top_content": 11
+  },
+  "not_live_connected": true,
+  "missing_values_policy": "Unavailable source metrics preserved as null; not imputed to zero."
+}

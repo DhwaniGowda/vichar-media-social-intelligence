@@ -1,0 +1,54 @@
+platform,metric,value,reporting_period,data_type,source,notes
+Instagram,Feed posts,43.0,Lifetime / current snapshot,count,Instagram audit,Complete feed fetch in source audit
+Instagram,Reels,35.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Carousels,8.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Archived Stories,32.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Post-level lifetime views,891574.0,Lifetime / current snapshot,count,Instagram audit,Sum across 43 content rows; not the same as account-level lifetime view count
+Instagram,Post-level accounts reached summed,617041.0,Lifetime / current snapshot,count,Instagram audit,Per-post reach sum; not deduplicated unique account reach
+Instagram,Post-level impressions,629782.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Likes,43565.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Comments,1600.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Shares,6425.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Saves,3408.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Reposts,1419.0,Lifetime / current snapshot,count,Instagram audit,
+Instagram,Interactions,56417.0,Lifetime / current snapshot,count,Instagram audit,Reported feed total
+Instagram,Current followers profile snapshot,390.0,Lifetime / current snapshot,count,Instagram audit,Different snapshot from 394 account insights value
+Instagram,Followers account insights snapshot,394.0,Lifetime / current snapshot,count,Instagram audit,Current snapshot in rolling insights
+Instagram,Total followers,394.0,Last 7 days,count,Instagram account insights,
+Instagram,Net follower change,19.0,Last 7 days,count,Instagram account insights,
+Instagram,Aggregated IG+FB views,36783.0,Last 7 days,count,Instagram account insights,
+Instagram,Profile visits,195.0,Last 7 days,count,Instagram account insights,
+Instagram,Content interactions,4342.0,Last 7 days,count,Instagram account insights,
+Instagram,Total followers,394.0,Last 14 days,count,Instagram account insights,
+Instagram,Net follower change,24.0,Last 14 days,count,Instagram account insights,
+Instagram,Aggregated IG+FB views,60199.0,Last 14 days,count,Instagram account insights,
+Instagram,Profile visits,255.0,Last 14 days,count,Instagram account insights,
+Instagram,Content interactions,6891.0,Last 14 days,count,Instagram account insights,
+Instagram,Total followers,394.0,Last 28 days,count,Instagram account insights,
+Instagram,Net follower change,37.0,Last 28 days,count,Instagram account insights,
+Instagram,Aggregated IG+FB views,122678.0,Last 28 days,count,Instagram account insights,
+Instagram,Accounts reached,89057.0,Last 28 days,count,Instagram account insights,
+Instagram,Profile visits,492.0,Last 28 days,count,Instagram account insights,
+Instagram,Content interactions,11933.0,Last 28 days,count,Instagram account insights,
+Instagram,Total followers,394.0,Last 90 days,count,Instagram account insights,
+Instagram,Net follower change,308.0,Last 90 days,count,Instagram account insights,
+Instagram,Aggregated IG+FB views,872581.0,Last 90 days,count,Instagram account insights,
+Instagram,Accounts reached,605320.0,Last 90 days,count,Instagram account insights,
+Instagram,Profile visits,4056.0,Last 90 days,count,Instagram account insights,
+Instagram,Content interactions,65221.0,Last 90 days,count,Instagram account insights,
+YouTube,Subscribers,200.0,Current / lifetime,count,YouTube audit,As supplied
+YouTube,Net subscribers gained,200.0,Lifetime,count,YouTube audit,As supplied
+YouTube,Lifetime views,144167.0,Lifetime,count,YouTube audit,Account-level YouTube figure
+YouTube,Engaged views,70297.0,Lifetime,count,YouTube audit,Account-level YouTube figure
+YouTube,Watch time hours,401.29,Lifetime,hours,YouTube audit,"Source reports 1,444,641 seconds"
+YouTube,Average view duration seconds,18.0,Lifetime,count,YouTube audit,Rounded reported figure
+YouTube,Impressions,21487.0,Lifetime,count,YouTube audit,As supplied
+YouTube,Impressions CTR percent,6.05,Lifetime,percent,YouTube audit,As supplied
+YouTube,Likes,3860.0,Lifetime,count,YouTube audit,As supplied
+YouTube,Comments,163.0,Lifetime,count,YouTube audit,As supplied
+YouTube,Shares,66.0,Lifetime,count,YouTube audit,As supplied
+YouTube,Active Community Guidelines strikes,0.0,Current status,count,YouTube audit,As supplied
+YouTube,Advanced Features Access,1.0,Current status,count,YouTube audit,Enabled
+YouTube,Valid public watch hours past 365 days,6.0,Rolling 365 days,hours,YouTube audit,YPP eligibility figure supplied
+YouTube,Valid public Shorts views past 90 days,57854.0,Rolling 90 days,count,YouTube audit,YPP eligibility figure supplied
+YouTube,Public uploads past 90 days,3.0,Rolling 90 days,count,YouTube audit,As supplied

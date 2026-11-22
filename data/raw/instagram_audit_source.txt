@@ -1,0 +1,318 @@
+**Lifetime totals are available** from post-level history, with account-level figures covering the recent window and with several requested breakdowns unavailable in the accessible data.
+
+## 1. Account overview
+
+| Metric | Actual Value | Date Range | Data Type | Source / Availability |
+|---|---|---|---|---|
+| Handle | @vicharmediaindia | Current snapshot | Snapshot | Profile lookup |
+| Display name | Vichar Media \| News House | Current snapshot | Snapshot | Profile lookup |
+| Bio | Independent News House \| India, News, Explainers, Ground, Interviews, History, Rights, Civic, Politics, Mumbai Ground, Pan-India Coverage | Current snapshot | Snapshot | Profile lookup |
+| Website | https://vicharmedia.com/ | Current snapshot | Snapshot | Profile lookup |
+| Country, account based in | India | Current snapshot | Snapshot | Profile lookup |
+| Total followers, profile snapshot | 390 | Current snapshot | Snapshot | Profile lookup |
+| Total followers, account insights snapshot | 394 | Last 7 days, Last 14 days, Last 28 days, Last 90 days | Snapshot at end of window | Account insights |
+| Following | 0 | Current snapshot | Snapshot | Profile lookup, as returned |
+| Posts, profile count | 44 | Current snapshot | Snapshot | Profile lookup, as returned |
+| Posts, feed fetch returned | 43 | 2026-07-21 to 2026-11-16 | Lifetime post-level total, complete | Feed fetch, 43 items |
+| Reels, feed | 35 | 2026-07-21 to 2026-11-16 | Lifetime post-level total | Feed fetch |
+| Carousel posts, feed | 8 | 2026-07-21 to 2026-11-16 | Lifetime post-level total | Feed fetch |
+| Videos, feed | 35 | 2026-07-21 to 2026-11-16 | Lifetime post-level total, Reels only | Feed fetch |
+| Archived Stories | 32 | 2026-07-22 to 2026-11-16 | Lifetime post-level total, complete | Archived Stories fetch |
+| Active Stories | 0 | Current check | Snapshot | Stories fetch, no matches |
+| Highlights | 0 in feed fetch | 2026-07-21 to 2026-11-16 | Lifetime post-level total | Feed fetch included Highlights, none returned |
+| Account creation date | Unavailable | Not returned | Not available | Not in accessible data |
+| Account age | Unavailable | Not returned | Not available | Cannot be calculated without creation date |
+
+The 390 versus 394 follower figures are two snapshots taken at different times. The 44 versus 43 post count is the profile count versus the feed fetch count. Both are reported as returned, not reconciled.
+
+## 2. Account-level performance by window
+
+Account insights for Instagram are available only for Last 7 days, Last 14 days, Last 28 days, and Last 90 days. A single lifetime account-level total is unavailable.
+
+
+
+| Metric | Last 7 days | Last 14 days | Last 28 days | Last 90 days |
+|---|---|---|---|---|
+| Total followers | 394 | 394 | 394 | 394 |
+| Overall followers | +19 | +24 | +37 | +308 |
+| Aggregated account-level views from IG and FB | 36,783 | 60,199 | 122,678 | 872,581 |
+| Accounts reached | Not returned for 7 days and 14 days in this read | Not returned for 7 days and 14 days in this read | 89,057 | 605,320 |
+| Profile visits | 195 | 255 | 492 | 4,056 |
+| Content interactions | 4,342 | 6,891 | 11,933 | 65,221 |
+
+**Accounts reached** is defined as unique accounts that have seen content at least once. **Aggregated account-level views from IG and FB** is defined as aggregated views from both IG and FB crossposted content. **Profile visits** is defined as the number of times that your profile was visited. **Overall followers** is a net change, not a running total.
+
+Prior-period comparison for Last 90 days: **Aggregated account-level views from IG and FB** 872,581 versus 9,965 in prior period, **Accounts reached** 605,320 versus 3,269, **Profile visits** 4,056 versus 931, **Content interactions** 65,221 versus 2,336, **Overall followers** +308 versus +84.
+
+## 3. Follower growth and audience analytics
+
+### 3.1 Follower growth
+
+| Metric | Actual Value | Date Range | Data Type |
+|---|---|---|---|
+| Total followers, current snapshot | 394 | Last 90 days end | Snapshot |
+| Overall followers, Last 90 days | +308 | Last 90 days | Net change |
+| Overall followers, Last 28 days | +37 | Last 28 days | Net change |
+| Overall followers, Last 14 days | +24 | Last 14 days | Net change |
+| Overall followers, Last 7 days | +19 | Last 7 days | Net change |
+| Total follows gained lifetime, gross | Unavailable | Not returned | Not available, only net change is returned |
+| Total unfollows lifetime, gross | Unavailable | Not returned | Not available, only net change is returned |
+| Follower retention and churn | Unavailable | Not returned | Not available |
+
+Highest net growth days in Last 90 days daily series: Oct 6 +51, Sep 9 +46, Sep 3 +27, Sep 8 +21, Oct 7 +18. Lowest net growth days: Sep 23 -3, Sep 30 -2, Oct 1 -2, Oct 18 -2, Oct 30 -2, plus several 0 days.
+
+Follows from content, feed: 266 across 28 posts that returned a **Follows** figure. 15 feed posts returned no **Follows** figure, so 266 is partial, not a lifetime total for all 43 posts. **Follows** is defined as the number of accounts that followed you from a piece of content. Top follows from a single feed post: Oct 5 Reel 143, Jul 29 Reel 34, Jul 21 carousel 15, Sep 9 Reel 13.
+
+### 3.2 Audience demographics
+
+Gender distribution, age distribution, age by gender, country, city, state, language, top countries, top cities: unavailable. No demographic breakdown was returned in accessible account insights.
+
+### 3.3 Audience activity
+
+Audience activity is average followers online at that hour, concurrent, never additive. Timezone in source: America/Los_Angeles. Window: Last 28 days.
+
+Top hours per day, Last 28 days:
+- Sun: 07:00 198, 08:00 196
+- Mon: 06:00 197, 07:00 196
+- Tue: 08:00 202, 06:00 199
+- Wed: 07:00 202, 08:00 200
+- Thu: 08:00 199, 06:00 199
+- Fri: 07:00 197, 08:00 197
+- Sat: 09:00 198, 07:00 193
+
+Lowest activity is consistently in the early afternoon hours, 13:00 to 16:00, with values in the 36 to 65 range across days, versus morning peaks near 200. This is a description of the returned activity grid, not a claim that a posting time causes growth.
+
+## 4. Reels analytics, every Reel
+
+Lifetime post-level totals, feed, 43 posts: **Likes** 43,565, **Comments** 1,600, **Shares** 6,425, **Saves** 3,408, **Reposts** 1,419, **Views** 891,574, **Impressions** 629,782, **Accounts reached** 617,041. **Views** is defined as the number of times that your content was played or displayed. **Impressions** is defined as the number of times that your content was on screen. **Accounts reached** is defined as unique accounts that have seen content at least once.
+
+Reels-only totals, 35 Reels, calculated from post-level figures: **Views** 884,323, **Accounts reached** 614,089, **Likes** 43,247, **Comments** 1,583, **Shares** 6,134, **Saves** 3,358, **Reposts** 1,338, **Initial plays** 646,491, **Replays** 312,557, **Watch time** about 3,454.4 hours, converted from 12,435,982,411 ms.
+
+Definitions: **Initial plays** is the number of times that your reel starts to play for the first time in a reel session, plays of 1 ms or more, excludes replays. **Replays** is the number of times that your reel starts to play again after an initial play, replays of 1 ms or more in the same reel session. **Average watch time** is the average amount of time spent playing your reel, calculated by watch time divided by initial plays. **Reels skip rate** is the percentage of views from people who skipped during the first 3 seconds, calculated as views that skipped during first 3 seconds divided by initial views. **Watch time** is in development and is defined as total amount of time that your reel was played for, including time spent replaying.
+
+The table below is one row per Reel, newest first. Calculated columns are labelled calculated. **EngR** is calculated interactions divided by **Accounts reached**. **EngV** is calculated interactions divided by **Views**. **F%** is follower views divided by **Views**. Reel duration, retention graph, percentage watched entire Reel, Explore, Reels tab, Feed, Profile, Stories, Search, external traffic: unavailable.
+
+| Date | Post | Views | Accounts reached | Impressions | Likes | Comments | Shares | Saves | Reposts | Interactions | Follows | Initial plays | Replays | Watch time sec, calculated | Average watch time sec | Reels skip rate | Follower views %, calculated | EngR %, calculated | EngV %, calculated |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-16 | Reel, flying safety explainer | 3,635 | 2,645 | 3,129 | 94 | 20 | 100 | 14 | 21 | 249 | 3 | 2,935 | 753 | 33,134 | 11.2 | 49.5% | 28.9% | 9.4% | 6.9% |
+| 2026-11-03 | Reel, Siang dam protest explainer | 964 | 611 | 806 | 63 | 7 | 110 | 7 | 11 | 198 | 1 | 736 | 244 | 5,672 | 7.4 | 61.1% | 43.9% | 32.4% | 20.5% |
+| 2026-10-30 | Reel, Jamia protest explainer | 1,821 | 1,394 | 1,531 | 58 | 4 | 24 | 11 | 11 | 108 | No figure | 1,496 | 336 | 16,602 | 10.9 | 39.3% | 18.4% | 7.7% | 5.9% |
+| 2026-10-28 | Reel, Yamuna foam seasonal issues | 1,684 | 1,028 | 1,453 | 62 | 11 | 98 | 12 | 14 | 197 | No figure | 1,291 | 407 | 9,896 | 7.5 | 69.8% | 45.8% | 19.2% | 11.7% |
+| 2026-10-26 | Reel, Central Park ground report | 2,401 | 1,887 | 2,081 | 223 | 16 | 40 | 8 | 23 | 310 | 1 | 1,987 | 436 | 13,410 | 6.6 | 56.5% | 14.5% | 16.4% | 12.9% |
+| 2026-10-23 | Reel, evening confrontation | 1,052 | 934 | 934 | 6 | 0 | 0 | 0 | 0 | 6 | No figure | 937 | 119 | 5,362 | 5.7 | 18.7% | 0.7% | 0.6% | 0.6% |
+| 2026-10-22 | Reel, Central Park ground report | 4,832 | 3,720 | 4,134 | 307 | 25 | 115 | 12 | 28 | 487 | 2 | 3,955 | 914 | 28,572 | 7.2 | 44.9% | 17.9% | 13.1% | 10.1% |
+| 2026-10-22 | Reel, Central Park debate part 1 | 1,300 | 1,115 | 1,115 | 2 | 0 | 0 | 0 | 0 | 2 | No figure | 1,115 | 207 | 6,142 | 5.5 | 29.2% | 0.0% | 0.2% | 0.2% |
+| 2026-10-21 | Reel, street interview at bus | 326 | 301 | 303 | 6 | 0 | 0 | 0 | 0 | 6 | 1 | 306 | 23 | 1,726 | 5.6 | 41.8% | 0.9% | 2.0% | 1.8% |
+| 2026-10-17 | Reel, night live update with press lanyard | 2,170 | 1,571 | 1,737 | 82 | 12 | 77 | 7 | 9 | 187 | No figure | 1,706 | 491 | 12,321 | 7.1 | 46.3% | 17.0% | 11.9% | 8.6% |
+| 2026-10-17 | Reel, Youth Tiranga March | 3,042 | 2,316 | 2,526 | 90 | 2 | 36 | 10 | 14 | 152 | 1 | 2,469 | 596 | 28,558 | 11.5 | 35.4% | 13.4% | 6.6% | 5.0% |
+| 2026-10-16 | Reel, Central Park detention visuals | 1,595 | 1,305 | 1,330 | 56 | 0 | 0 | 7 | 9 | 72 | No figure | 1,328 | 277 | 9,597 | 7.2 | 35.9% | 12.7% | 5.5% | 4.5% |
+| 2026-10-16 | Reel, reporter near police barricades | 2,990 | 2,178 | 2,436 | 76 | 6 | 8 | 12 | 13 | 115 | 2 | 2,333 | 691 | 19,818 | 8.4 | 40.0% | 15.2% | 5.3% | 3.8% |
+| 2026-10-16 | Reel, reporter between buses | 2,506 | 1,833 | 2,046 | 67 | 7 | 2 | 10 | 12 | 98 | 1 | 1,979 | 553 | 14,508 | 7.3 | 39.7% | 18.8% | 5.3% | 3.9% |
+| 2026-10-16 | Reel, live update with mic | 3,431 | 2,444 | 2,768 | 115 | 13 | 116 | 10 | 16 | 270 | 6 | 2,608 | 875 | 23,292 | 8.9 | 34.4% | 17.1% | 11.0% | 7.9% |
+| 2026-10-16 | Reel, direct to camera commentary | 1,259 | 1,024 | 1,032 | 9 | 0 | 1 | 0 | 0 | 10 | No figure | 1,034 | 245 | 12,635 | 12.2 | 34.5% | 0.2% | 1.0% | 0.8% |
+| 2026-10-15 | Reel, Central Park update | 3,737 | 2,745 | 3,044 | 92 | 16 | 157 | 10 | 15 | 290 | 2 | 2,942 | 839 | 44,119 | 14.9 | 37.2% | 12.8% | 10.6% | 7.8% |
+| 2026-10-14 | Reel, India Gate night crowd | 2,732 | 1,803 | 1,985 | 81 | 5 | 50 | 10 | 12 | 158 | 2 | 1,922 | 873 | 13,881 | 7.1 | 38.7% | 16.8% | 8.8% | 5.8% |
+| 2026-10-12 | Reel, flag holder interview | 2,419 | 1,865 | 2,068 | 71 | 8 | 25 | 9 | 10 | 123 | 2 | 2,022 | 425 | 16,252 | 8.0 | 36.7% | 14.8% | 6.6% | 5.1% |
+| 2026-10-11 | Reel, protest commentary two part | 1,847 | 1,333 | 1,571 | 109 | 11 | 14 | 7 | 15 | 156 | No figure | 1,513 | 353 | 15,859 | 10.3 | 44.3% | 22.8% | 11.7% | 8.4% |
+| 2026-10-10 | Reel, direct to camera outdoors | 2,036 | 1,456 | 1,614 | 69 | 8 | 43 | 14 | 16 | 150 | 3 | 1,598 | 455 | 13,197 | 8.1 | 53.1% | 22.2% | 10.3% | 7.4% |
+| 2026-10-09 | Reel, street protest | 3,260 | 2,556 | 2,805 | 124 | 26 | 74 | 17 | 19 | 260 | 2 | 2,740 | 561 | 28,541 | 10.3 | 35.0% | 13.8% | 10.2% | 8.0% |
+| 2026-10-05 | Reel, street interview pink kurta | 737,214 | 540,626 | 540,626 | 37,908 | 1,038 | 2,717 | 3,018 | 794 | 45,475 | 143 | 544,993 | 204,286 | 11,160,246 | 20.5 | 25.1% | 0.9% | 8.4% | 6.2% |
+| 2026-10-04 | Reel, street interview donut shop | 25,052 | 16,306 | 17,851 | 1,476 | 28 | 61 | 51 | 113 | 1,729 | 1 | 17,496 | 7,923 | 190,094 | 10.8 | 46.7% | 6.4% | 10.6% | 6.9% |
+| 2026-10-03 | Reel, street interview sidewalk | 5,568 | 3,720 | 4,310 | 114 | 24 | 12 | 15 | 15 | 180 | 2 | 4,090 | 1,559 | 48,420 | 11.6 | 32.4% | 14.6% | 4.8% | 3.2% |
+| 2026-10-03 | Reel, mic interview candy shop | 3,588 | 2,549 | 2,972 | 129 | 18 | 13 | 12 | 19 | 191 | 1 | 2,775 | 853 | 34,990 | 12.4 | 42.3% | 25.2% | 7.5% | 5.3% |
+| 2026-09-27 | Reel, CEC explainer | 43,346 | 2,096 | 2,233 | 1,051 | 6 | 187 | 9 | 12 | 1,265 | 1 | 22,552 | 81,787 | 455,148 | 20.1 | 3.6% | 0.8% | 60.4% | 2.9% |
+| 2026-09-23 | Reel, love story skit opening | 2,053 | 1,180 | 1,653 | 83 | 13 | 195 | 7 | 15 | 313 | 3 | 1,587 | 500 | 17,947 | 11.0 | 57.2% | 33.6% | 26.5% | 15.2% |
+| 2026-09-21 | Reel, Maharashtra FDA commentary | 1,782 | 1,494 | 1,494 | 3 | 0 | 1 | 0 | 0 | 4 | No figure | 1,480 | 316 | 16,134 | 10.9 | 26.2% | 0.0% | 0.3% | 0.2% |
+| 2026-09-09 | Reel, Vichar Media intro promo | 2,915 | 1,406 | 2,211 | 118 | 73 | 352 | 11 | 15 | 569 | 13 | 1,964 | 1,062 | 34,674 | 17.1 | 62.5% | 43.0% | 40.5% | 19.5% |
+| 2026-09-03 | Reel, UP schools explainer | 1,918 | 995 | 1,522 | 80 | 65 | 294 | 12 | 16 | 467 | 9 | 1,405 | 589 | 18,674 | 12.7 | 64.8% | 48.1% | 46.9% | 24.3% |
+| 2026-09-01 | Reel, school closure explainer | 2,308 | 1,311 | 1,902 | 95 | 40 | 384 | 8 | 17 | 544 | 1 | 1,688 | 685 | 15,792 | 9.1 | 72.6% | 54.0% | 41.5% | 23.6% |
+| 2026-08-12 | Reel, delimitation part 2 | 1,907 | 1,091 | 1,557 | 91 | 20 | 204 | 8 | 14 | 337 | 4 | 1,399 | 555 | 12,538 | 8.7 | 68.5% | 44.4% | 30.9% | 17.7% |
+| 2026-08-05 | Reel, delimitation explainer | 2,195 | 1,476 | 1,822 | 101 | 20 | 339 | 9 | 13 | 482 | 5 | 1,722 | 547 | 22,684 | 12.9 | 64.1% | 27.7% | 32.7% | 22.0% |
+| 2026-07-29 | Reel, custodial deaths explainer | 3,438 | 1,775 | 2,830 | 136 | 41 | 285 | 11 | 24 | 497 | 34 | 2,388 | 1,222 | 35,549 | 14.4 | 65.2% | 49.3% | 28.0% | 14.5% |
+
+
+Rankings, calculated from the table above:
+- By **Views**: Oct 5 Reel 737,214, Sep 27 Reel 43,346, Oct 4 Reel 25,052, Oct 3 Reel 5,568, Oct 22 Reel 4,832.
+- By **Accounts reached**: Oct 5 Reel 540,626, Oct 4 Reel 16,306, Oct 3 Reel 3,720, Oct 22 Reel 3,720, Oct 15 Reel 2,745.
+- By interactions: Oct 5 Reel 45,475, Oct 4 Reel 1,729, Sep 27 Reel 1,265, Sep 9 Reel 569, Sep 1 Reel 544.
+- By **Shares**: Oct 5 Reel 2,717, Sep 1 Reel 384, Sep 9 Reel 352, Aug 5 Reel 339, Sep 3 Reel 294.
+- By **Saves**: Oct 5 Reel 3,018, Oct 4 Reel 51, Oct 9 Reel 17, Oct 15 Reel 10, plus several at 12 to 15.
+- By **Watch time**: Oct 5 Reel 11,160,246 sec, Sep 27 Reel 455,148 sec, Oct 4 Reel 190,094 sec.
+- By **Average watch time**: Oct 5 Reel 20.5 sec, Sep 27 Reel 20.1 sec, Sep 9 Reel 17.1 sec.
+- By **Follows**: Oct 5 Reel 143, Jul 29 Reel 34, Sep 9 Reel 13.
+- Worst by **Views**: Oct 21 Reel 326, Nov 3 Reel 964, Oct 23 Reel 1,052, Oct 16 Reel 1,259, Oct 22 Reel 1,300.
+- High reach but low calculated engagement: Oct 5 Reel has the largest **Accounts reached** with calculated EngR 8.4%, while Sep 27 Reel has small **Accounts reached** 2,096 with calculated EngR 60.4%. This is a description of the two rows, not a causal claim.
+
+
+
+## 5. Image posts and carousels, every item
+
+Carousel totals, 8 posts, calculated: **Views** 7,251, **Accounts reached** 2,952, **Impressions** 4,351, **Likes** 318, **Comments** 17, **Shares** 291, **Saves** 50, **Reposts** 81, interactions 760. Slide-by-slide performance: unavailable. Discovery sources: unavailable.
+
+| Date | Post | Views | Accounts reached | Impressions | Likes | Comments | Shares | Saves | Reposts | Interactions | Follows | Topic paraphrase |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-21 | Carousel | 602 | 196 | 265 | 39 | 0 | 0 | 6 | 8 | 53 | No figure | 9-slide survey of Delhi Police security infrastructure |
+| 2026-10-11 | Carousel | 735 | 296 | 443 | 30 | 2 | 3 | 5 | 9 | 49 | No figure | 12-slide civic education argument |
+| 2026-10-11 | Carousel | 458 | 151 | 196 | 25 | 0 | 0 | 4 | 10 | 39 | No figure | 4-slide Supreme Court interim direction explainer |
+| 2026-10-10 | Carousel | 756 | 310 | 450 | 30 | 1 | 2 | 5 | 10 | 48 | No figure | 20-slide hypothetical dark day narrative |
+| 2026-09-29 | Carousel | 1,392 | 595 | 802 | 61 | 1 | 4 | 5 | 18 | 89 | No figure | 5-slide text carousel |
+| 2026-08-19 | Carousel | 510 | 161 | 281 | 35 | 4 | 1 | 4 | 7 | 51 | No figure | 8-slide PM CARES investigative graphics |
+| 2026-07-23 | Carousel | 1,383 | 585 | 924 | 48 | 4 | 230 | 11 | 11 | 304 | 5 | 8-slide carousel |
+| 2026-07-21 | Carousel | 1,415 | 658 | 990 | 50 | 5 | 51 | 10 | 11 | 127 | 15 | 8-slide protest crackdown response |
+
+
+Best carousel by **Views**: Jul 21 carousel 1,415. Worst by **Views**: Oct 11 carousel 458. Best by calculated interactions: Jul 23 carousel 304.
+
+## 6. Stories analytics, every archived Story
+
+Archived Stories totals, 32 Stories: **Views** 4,297, **Accounts reached** 2,912, **Impressions** 3,240, **Story likes** 88, **Reposts** 0, **Saves** 0, interactions 96, **Navigation** 2,513, reactions 0, **Profile visits** 84 across 28 Stories that returned the figure. **Story likes** is in development and is defined as likes on your story minus unlikes. **Navigation** is defined as total number of actions taken from your story, made up of metrics such as exited, forward, back and next story. Replies, shares, link clicks, sticker interactions, poll, quiz, question-box, forward taps, backward taps, next Story taps, exits, completion rate: unavailable as separate metrics. Only the aggregated **Navigation** total is returned.
+
+| Date | Post | Views | Accounts reached | Impressions | Story likes | Interactions | Navigation | Profile visits | Follower views | Non-follower views |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-16 | Story | 111 | 80 | 82 | 3 | 3 | 97 | No figure | 110 | 1 |
+| 2026-11-04 | Story | 98 | 86 | 86 | 1 | 1 | 92 | 1 | 97 | 1 |
+| 2026-10-28 | Story | 71 | 54 | 56 | 0 | 0 | 64 | 3 | 68 | 3 |
+| 2026-10-28 | Story | 8 | 6 | 6 | 0 | 0 | 7 | No figure | 8 | No figure |
+| 2026-10-26 | Story | 70 | 51 | 54 | 1 | 1 | 61 | 3 | 68 | 2 |
+| 2026-10-22 | Story | 110 | 77 | 79 | 3 | 3 | 98 | 2 | 106 | 4 |
+| 2026-10-17 | Story | 66 | 59 | 59 | 2 | 2 | 61 | 1 | 54 | 12 |
+| 2026-10-16 | Story | 96 | 76 | 80 | 1 | 1 | 89 | 6 | 70 | 26 |
+| 2026-10-16 | Story | 108 | 89 | 95 | 3 | 3 | 96 | No figure | 76 | 32 |
+| 2026-10-16 | Story | 116 | 96 | 102 | 1 | 1 | 107 | 1 | 82 | 34 |
+| 2026-10-15 | Story | 139 | 104 | 108 | 2 | 2 | 127 | 3 | 98 | 41 |
+| 2026-10-13 | Story | 75 | 59 | 60 | 1 | 1 | 63 | 4 | 74 | 1 |
+| 2026-10-12 | Story | 82 | 63 | 63 | 1 | 1 | 67 | 2 | 82 | No figure |
+| 2026-10-10 | Story | 63 | 54 | 54 | 1 | 1 | 61 | 1 | 60 | 3 |
+| 2026-10-08 | Story | 80 | 58 | 59 | 3 | 4 | 74 | 4 | 79 | 1 |
+| 2026-10-07 | Story | 84 | 62 | 63 | 2 | 2 | 76 | 4 | 76 | 8 |
+| 2026-10-06 | Story | 76 | 61 | 62 | 1 | 1 | 67 | 4 | 61 | 15 |
+| 2026-10-05 | Story | 88 | 75 | 76 | 5 | 5 | 84 | 4 | 80 | 8 |
+| 2026-10-04 | Story | 207 | 114 | 149 | 5 | 7 | 94 | 2 | 158 | 49 |
+| 2026-10-04 | Story | 87 | 60 | 63 | 2 | 2 | 79 | No figure | 79 | 8 |
+| 2026-10-03 | Story | 98 | 64 | 64 | 6 | 6 | 86 | 4 | 93 | 5 |
+| 2026-09-30 | Story | 208 | 116 | 146 | 4 | 5 | 83 | 1 | 164 | 44 |
+| 2026-09-30 | Story | 1,151 | 654 | 826 | 3 | 6 | 142 | 3 | 381 | 770 |
+| 2026-09-24 | Story | 138 | 100 | 104 | 4 | 4 | 121 | 2 | 135 | 3 |
+| 2026-09-09 | Story | 421 | 275 | 319 | 6 | 7 | 135 | 11 | 219 | 202 |
+| 2026-09-03 | Story | 75 | 60 | 61 | 2 | 2 | 66 | 1 | 72 | 3 |
+| 2026-09-01 | Story | 68 | 54 | 56 | 7 | 7 | 62 | 3 | 66 | 2 |
+| 2026-08-19 | Story | 66 | 51 | 51 | 4 | 4 | 61 | 2 | 65 | 1 |
+| 2026-07-31 | Story | 77 | 47 | 48 | 3 | 3 | 56 | 3 | 77 | No figure |
+| 2026-07-29 | Story | 84 | 61 | 61 | 3 | 3 | 75 | 5 | 67 | 17 |
+| 2026-07-24 | Story | 44 | 27 | 28 | 4 | 4 | 37 | 1 | 43 | 1 |
+| 2026-07-22 | Story | 32 | 19 | 20 | 4 | 4 | 25 | 3 | 27 | 5 |
+
+
+Best Story by **Views**: Sep 30 Story 1,151. Worst by **Views**: Oct 28 Story 8.
+
+## 7. Content discovery and traffic sources
+
+Explore, Reels tab, Home Feed, Profile, Hashtag, Search, Stories, External, Suggested, Other: unavailable. No traffic-source breakdown was returned for account or content. The only follower versus non-follower breakdown returned is for **Views** at content level.
+
+Feed **Views** follower split: Follower 29,974, about 3.4%, Non-follower 819,947, about 92.0%, Unknown 41,638, about 4.7%. This is calculated from post-level breakdowns. Stories are overwhelmingly follower-driven in the returned breakdowns, except the Sep 30 Story with 770 non-follower views.
+
+## 8. Engagement and interaction analytics
+
+Feed totals: **Likes** 43,565, **Comments** 1,600, **Shares** 6,425, **Saves** 3,408, **Reposts** 1,419, interactions 56,417. Interactions metric is in development and is defined as an aggregated sum of interactions including likes, comments, saves and shares. Sends as a separate metric: unavailable.
+
+Calculated, not native: interactions divided by **Accounts reached** 9.14%, interactions divided by **Views** 6.33%, **Likes** divided by **Views** 4.89%, **Shares** divided by **Views** 0.72%, **Saves** divided by **Views** 0.38%, **Follows** per 1,000 **Views** 0.30 using the partial 266 **Follows** figure.
+
+Engagement by followers versus non-followers, by topic, by publication time: unavailable as a native breakdown. Engagement by format is in Section 4 and Section 5.
+
+## 9. Profile activity and conversion
+
+| Metric | Actual Value | Date Range | Data Type |
+|---|---|---|---|
+| Profile visits, account level, Last 90 days | 4,056 | Last 90 days | Account total |
+| Profile visits, account level, Last 28 days | 492 | Last 28 days | Account total |
+| Profile visits, account level, Last 14 days | 255 | Last 14 days | Account total |
+| Profile visits, account level, Last 7 days | 195 | Last 7 days | Account total |
+| Profile visits from Stories, partial | 84 | 2026-07-22 to 2026-11-16, 28 Stories | Post-level sum, partial |
+| Website taps, external link clicks, email, call, directions, contact button | Unavailable | Not returned | Not available |
+| Profile to follow conversion rate | Unavailable as native, calculable proxy not valid without profile-origin follows | Not available | Not calculated, follows are content-attributed, not profile-attributed |
+
+## 10. Historical performance and time series
+
+Daily account series, Last 28 days, Oct 23 to Nov 20. **Views** here is **Aggregated account-level views from IG and FB** daily, **Accounts reached** daily, **Content interactions** daily, **Profile visits** daily, **Overall followers** daily net.
+
+| Date | Views | Accounts reached | Content interactions | Profile visits | Overall followers |
+|---|---|---|---|---|---|
+| 2026-10-23 | 6,818 | 5,026 | 494 | 16 | -1 |
+| 2026-10-24 | 4,323 | 3,154 | 336 | 13 | 0 |
+| 2026-10-25 | 4,481 | 3,269 | 356 | 14 | 0 |
+| 2026-10-26 | 5,116 | 3,560 | 447 | 33 | +2 |
+| 2026-10-27 | 3,405 | 2,450 | 270 | 11 | +2 |
+| 2026-10-28 | 4,992 | 3,642 | 603 | 43 | 0 |
+| 2026-10-29 | 3,233 | 2,504 | 233 | 14 | 0 |
+| 2026-10-30 | 3,645 | 2,678 | 356 | 18 | -2 |
+| 2026-10-31 | 4,708 | 3,684 | 343 | 11 | +4 |
+| 2026-11-01 | 3,943 | 3,007 | 340 | 7 | 0 |
+| 2026-11-02 | 3,289 | 2,441 | 258 | 3 | +1 |
+| 2026-11-03 | 3,651 | 2,719 | 320 | 23 | +4 |
+| 2026-11-04 | 3,785 | 2,888 | 314 | 17 | +2 |
+| 2026-11-05 | 3,844 | 2,959 | 372 | 6 | +1 |
+| 2026-11-06 | 3,246 | 2,464 | 476 | 8 | 0 |
+| 2026-11-07 | 2,480 | 1,890 | 240 | 6 | 0 |
+| 2026-11-08 | 4,132 | 3,197 | 449 | 4 | -1 |
+| 2026-11-09 | 4,202 | 3,250 | 373 | 5 | +2 |
+| 2026-11-10 | 3,449 | 2,674 | 340 | 11 | +2 |
+| 2026-11-11 | 3,325 | 2,620 | 320 | 9 | +1 |
+| 2026-11-12 | 2,827 | 2,113 | 351 | 15 | +1 |
+| 2026-11-13 | 3,001 | 2,282 | 299 | 10 | +2 |
+| 2026-11-14 | 3,664 | 2,811 | 349 | 11 | +2 |
+| 2026-11-15 | 3,029 | 2,301 | 289 | 8 | 0 |
+| 2026-11-16 | 6,579 | 4,694 | 660 | 68 | +6 |
+| 2026-11-17 | 5,306 | 4,017 | 568 | 65 | +2 |
+| 2026-11-18 | 5,565 | 4,307 | 570 | 14 | +4 |
+| 2026-11-19 | 7,341 | 5,795 | 883 | 15 | +3 |
+
+Monthly content output, feed: Jul 3, Aug 3, Sep 7, Oct 28, Nov 2. Monthly content output, Stories: Jul 4, Aug 1, Sep 6, Oct 19, Nov 2.
+
+Best-performing days in Last 90 days account series: Oct 6 **Views** 301,530, **Accounts reached** 214,811, **Content interactions** 17,028, **Profile visits** 523, **Overall followers** +51. Oct 5 **Views** 102,862, **Accounts reached** 74,118. Oct 7 **Views** 70,472, **Accounts reached** 47,670.
+
+## 11. Other features
+
+Live statistics, broadcast channel analytics, collaborator post analytics, branded content insights, partnership and paid promotion insights, monetisation and eligibility, gifts, subscriptions, advertising statistics, account status and recommendation eligibility, audio analytics, search and discovery insights: unavailable in accessible data. No paid traffic was flagged on feed posts: has_paid_traffic false for all 43 feed posts. No collaborator posts were identified in the returned feed set except one post with a coauthor field, without collaborator performance breakdown.
+
+## 12. Aggregate performance calculations, all calculated
+
+| Calculation | Value | Basis |
+|---|---|---|
+| Average Views per Reel, calculated | 25,266 | 884,323 divided by 35 |
+| Median Views per Reel, calculated | 2,401 | Median of 35 Reels |
+| Average Views per feed post, calculated | 20,734 | 891,574 divided by 43 |
+| Average Accounts reached per Reel, calculated | 17,545 | 614,089 divided by 35 |
+| Average interactions per Reel, calculated | 1,590 | 55,657 divided by 35 |
+| Average Likes per Reel, calculated | 1,236 | 43,247 divided by 35 |
+| Average Shares per Reel, calculated | 175 | 6,134 divided by 35 |
+| Average Saves per Reel, calculated | 96 | 3,358 divided by 35 |
+| Average Watch time per Reel, calculated | 19.2 sec weighted | Total Watch time divided by total Initial plays |
+| Total cumulative Watch time, feed Reels | About 3,454.4 hours | Sum of Watch time |
+| Views per follower, calculated | About 2,263 | 891,574 divided by 394 followers snapshot |
+| Reach to follower ratio, calculated | About 1,565 | 617,041 summed per-post Accounts reached divided by 394, not deduplicated, do not read as unique reach |
+| Top 10 Reels share of feed Views, calculated | About 93.5% | Top 10 Reels Views 833,841 divided by 891,574 |
+| Top 10 Reels share of feed interactions, calculated | About 91.9% | Top 10 Reels interactions 51,852 divided by 56,417 |
+| Reels share of feed Views, calculated | About 99.2% | 884,323 divided by 891,574 |
+| Reels share of feed Likes, calculated | About 99.3% | 43,247 divided by 43,565 |
+
+## 14. Data availability and completeness audit
+
+| Category | Status |
+|---|---|
+| Account insights Last 7, 14, 28, 90 days | Retrieved |
+| Lifetime account-level total | Unavailable, Instagram returns only rolling windows |
+| Feed post-level metrics, 43 posts | Retrieved, complete, no additional matches |
+| Archived Stories, 32 Stories | Retrieved, complete |
+| Active Stories | Retrieved, 0 matches |
+| Highlights | Retrieved, 0 matches in feed fetch |
+| Follower demographics, gender, age, country, city, language | Unavailable |
+| Traffic sources, Explore, Feed, Profile, Hashtag, Search, External | Unavailable |
+| Reel duration, retention graph, completion rate | Unavailable |
+| Story replies, poll, quiz, sticker, forward, back, exit splits | Unavailable, only total Navigation |
+| Website taps, email, call, directions, contact button | Unavailable |
+| Live, broadcast, branded, paid, monetisation, gifts, subscriptions | Unavailable |
+| Gross follows and gross unfollows | Unavailable, only net Overall followers |
+| Account creation date | Unavailable |
+
+I have exhausted the account insights, profile lookup, and post-level fetches accessible to me for this account in this turn. The categories listed as unavailable were not omitted because they seem minor. They were not returned by the accessible sources.
+
